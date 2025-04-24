@@ -1,4 +1,4 @@
-# CS308-Assignment-2
+# CS306-Assignment-2
 # Part 1
 ## 1. Complete the following addition problem in hexadecimal: 32154AAAA + FEDCBA092. Show the answer in hexadecimal and in decimal.
 ```
